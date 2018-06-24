@@ -1,2 +1,3 @@
-# essence_oef_julia
-Nootebooks to expose highlights of Julia programming language
+# Essence of Julia
+
+Notebooks to expose highlights of Julia programming language
